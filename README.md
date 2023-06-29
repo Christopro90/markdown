@@ -57,7 +57,7 @@ Bilder werden so erstellt: Alt Text (`[]`) URL/Pfad (`()`)
 
 Beispiel:
 
-![Insel](https://www.planet-wissen.de/kultur/inseln/pwdb_themenkomplexe316~_v-gseagaleriexl.jpg)
+[Insel](https://www.planet-wissen.de/kultur/inseln/pwdb_themenkomplexe316~_v-gseagaleriexl.jpg)
 
 ### Zitate
 
@@ -82,4 +82,10 @@ Mit [Markdown Tabelle Generator](https://tableconvert.com/markdown-generator) ka
 <summary>Zusatz</summary>
 <br>
 Markdown ist flexibel und kann mit HTML kombiniert werden.
+</details>
+
+<details>
+<summary>Websiten</summary>
+<br>
+Diese Website ist der Blog von Aaron Swartz. Er hat mit John Gruber Markdown entwickelt.  [BLOG](http://www.aaronsw.com/weblog/001189)
 </details>
