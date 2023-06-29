@@ -6,6 +6,8 @@ Markdown ist eine einfache Sprache die entwickelt wurde um Texte mit minimalen A
 
 Markdown ist unter anderem geignet für README-Dateien. Markdown kann in fast jedem Texteditor verwendet werden.
 
+Die Dateiendung von Markdown ist .md
+
 ## Syntax
 
 ### Überschriften
