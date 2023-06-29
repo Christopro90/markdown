@@ -14,9 +14,9 @@ Die Dateiendung von Markdown ist .md
 
 Überschriften werden mit Hashtags markiert. 
 
-\#      H1
-\##     H2
-\###    H3
+\#      H1    <br>
+\##     H2    <br>
+\###    H3    <br>
 
 ### Formatierung
 
