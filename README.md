@@ -85,5 +85,5 @@ Markdown ist flexibel und kann mit HTML kombiniert werden.
 </details>
 
 ## Websiten
-Hier ist der [Blog](http://www.aaronsw.com/weblog/001189) von Aaron Swartz und John Gruber (die Entwickler hinter Markdown).
+Hier ist der [Blog](http://www.aaronsw.com/weblog/001189) von Aaron Swartz und John Gruber (die Entwickler hinter Markdown). <br>
 Dies ist die Offizielle [Doku](https://daringfireball.net/projects/markdown/) über Markdown
