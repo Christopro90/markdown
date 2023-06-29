@@ -57,7 +57,7 @@ Bilder werden so erstellt: Alt Text (`[]`) URL/Pfad (`()`)
 
 Beispiel:
 
-[Insel](https://www.planet-wissen.de/kultur/inseln/pwdb_themenkomplexe316~_v-gseagaleriexl.jpg)
+![Insel](https://www.planet-wissen.de/kultur/inseln/pwdb_themenkomplexe316~_v-gseagaleriexl.jpg)
 
 ### Zitate
 
@@ -84,8 +84,6 @@ Mit [Markdown Tabelle Generator](https://tableconvert.com/markdown-generator) ka
 Markdown ist flexibel und kann mit HTML kombiniert werden.
 </details>
 
-<details>
-<summary>Websiten</summary>
-<br>
-Diese Website ist der Blog von Aaron Swartz. Er hat mit John Gruber Markdown entwickelt.  [BLOG](http://www.aaronsw.com/weblog/001189)
-</details>
+## Websiten
+Hier ist der [Blog](http://www.aaronsw.com/weblog/001189) von Aaron Swartz und John Gruber (die Entwickler hinter Markdown).
+Dies ist die Offizielle [Doku](https://daringfireball.net/projects/markdown/) über Markdown
