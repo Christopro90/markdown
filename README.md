@@ -2,6 +2,8 @@
 
 ## Was ist Markdown
 
+Um zu sehen wie die Beispiele genau sind muss man auf "Code" klicken.
+
 Markdown ist eine einfache Sprache die entwickelt wurde um Texte mit minimalen Auszeichnungen zu formatieren. Markdown verwendet eine leicht lesbare Syntax und kann einfach in HTML konvertiert werden.
 
 Markdown ist unter anderem geeignet für README-Dateien. Markdown kann in fast jedem Texteditor verwendet werden.
